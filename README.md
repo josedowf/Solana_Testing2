@@ -1,0 +1,2 @@
+# Solana_Testing2
+This code transfers 50% of the SOL balance from one wallet to another on the Solana blockchain. It uses the Solana Web3 library to connect to the devnet network, generate public-private key pairs, check wallet balances, request and confirm airdrop transactions, create a transfer transaction and sign it with the sender's private key. Finally, it sends and confirms the transaction and outputs wallet balances before and after the transfer.
